@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 # LogToFile-CI24
 =======
 # cordova-plugin-logtofile-CI24
@@ -15,31 +15,31 @@ cordova plugin add cordova-plugin-logtofile--editar
 
 ```javascript
 // Configuración de la ruta donde se almacenarán los registros en el dispositivo.
-window.logToFile.setLogfilePath('/LogsCI24/logs.txt', function () {
+(window as any).logToFile.setLogfilePath('/LogsCI24/logs.txt', function () {
     //Mesanje de éxito.
 }, function (err) {
     // Mensaje de error.
 });
 
 // Obtener l ruta de la instancia del registrador actual.
-window.logToFile.getLogfilePath(function (logfilePath) {
+(window as any).logToFile.getLogfilePath(function (logfilePath) {
     // Mensaje de éxito.
 }, function (err) {
     // Mensaje de error.
 });
 
 // Obtener la ruta de los registros archivados.
-window.logToFile.getArchivedLogfilePaths(function (archivedlogfiles) {
+(window as any).logToFile.getArchivedLogfilePaths(function (archivedlogfiles) {
     // Mensaje de éxito.
 }, function (err) {
     // Mensaje de error.
 });
 
 //Escribir logs en diferentes niveles.
-window.logToFile.debug('Mensaje debug');
-window.logToFile.info('Mensaje info');
-window.logToFile.warn('Mensaje warn');
-window.logToFile.error('Mensaje error');
+(window as any).logToFile.debug('Mensaje debug');
+(window as any).logToFile.info('Mensaje info');
+(window as any).logToFile.warn('Mensaje warn');
+(window as any).logToFile.error('Mensaje error');
 ```
 
 ## Nota:
