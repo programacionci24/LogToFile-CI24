@@ -48,4 +48,5 @@ como maximo se tienen dos archivos: el actual y el .zip.
 
 ## Plataformas:
 Android
->>>>>>> Plugin LogToFile CI24
+
+Plugin LogToFile CI24
