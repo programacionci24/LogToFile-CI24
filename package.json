@@ -1,0 +1,19 @@
+{
+  "name": "@ci24/logtofile_ci24",
+  "version": "1.0.0",
+  "description": "Plugin para guardar los logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programacionci24/LogToFile-CI24.git"
+  },
+  "author": "CI24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programacionci24/LogToFile-CI24/issues"
+  },
+  "homepage": "https://github.com/programacionci24/LogToFile-CI24#readme"
+}
