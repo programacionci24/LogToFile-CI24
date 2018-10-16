@@ -1,6 +1,6 @@
 {
   "name": "@ci24/logtofile_ci24",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Plugin para guardar los logs",
   "main": "index.js",
   "scripts": {

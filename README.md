@@ -1,5 +1,4 @@
-﻿<<<<<<< HEAD
-# LogToFile-CI24
+﻿# LogToFile-CI24
 =======
 # cordova-plugin-logtofile-CI24
 
@@ -8,7 +7,7 @@
 ## Instalación.
 
 ```bash
-cordova plugin add cordova-plugin-logtofile--editar
+cordova plugin add @ci24/logtofile_ci24
 ```
 
 ## Uso
@@ -49,4 +48,7 @@ como maximo se tienen dos archivos: el actual y el .zip.
 ## Plataformas:
 Android
 
-Plugin LogToFile CI24
+## Autor:
+Controles Inteligentes 24
+
+
